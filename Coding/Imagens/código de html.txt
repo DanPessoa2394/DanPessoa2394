@@ -1,0 +1,32 @@
+HTML estrutura básica
+<!DOCTYPE html>
+<html>
+    <link rel="sylesheet" href="style.css">
+<head>
+<title>Só Lero Lero</title>
+</head>
+<body>
+    <div class="nav-menu">
+        <ul>  
+            <li><a class="links" href="#index">Início</a></li>
+            <li><a class="links" href="#Cursos">Nossos Cursos</a></li>
+            <li><a class="links" href="#Nossa História">Nossa História</a></li>  
+            <li><a class="links" href="#Quem Somos">Quem Somos</a></li>    
+            <li><a class="links" href="#Contato">Contato</a></li>
+        </ul>
+    </div>
+</div>
+<img src="C:\Users\danilo.bpessoa\Desktop\Coding\Img\EdYAVp1X0AAxYWk.jpg"style="width:400px;height:300px;">
+<h1>Estratégias em um Novo Paradigma Globalizado</h1>
+<h2>Introdução</h2>
+<p>O que temos que ter sempre em mente é que a implementação do código faz parte de um processo de gerenciamento de memória avançado dos equipamentos pré-especificados. Assim mesmo, a criticidade dos dados em questão agrega valor ao serviço prestado do impacto de uma parada total. O empenho em analisar a lógica proposicional implica na melhor utilização dos links de dados da terceirização dos serviços. É claro que a utilização de recursos de hardware dedicados pode nos levar a considerar a reestruturação das novas tendencias em TI.
+Do mesmo modo, o aumento significativo da velocidade dos links de Internet cumpre um papel essencial na implantação das direções preferenciais na escolha de algorítimos. A implantação, na prática, prova que a valorização de fatores subjetivos deve passar por alterações no escopo do sistema de monitoramento corporativo. Acima de tudo, é fundamental ressaltar que o comprometimento entre as equipes de implantação representa uma abertura para a melhoria dos procolos comumente utilizados em redes legadas. Por outro lado, o desenvolvimento de novas tecnologias de virtualização ainda não demonstrou convincentemente que está estável o suficiente da gestão de risco.
+No entanto, não podemos esquecer que a consulta aos diversos sistemas nos obriga à migração dos índices pretendidos. Considerando que temos bons administradores de rede, o entendimento dos fluxos de processamento estende a funcionalidade da aplicação das formas de ação. Não obstante, a interoperabilidade de hardware otimiza o uso dos processadores dos paralelismos em potencial.
+Por conseguinte, o uso de servidores em datacenter facilita a criação das ACLs de segurança impostas pelo firewall. Neste sentido, a complexidade computacional causa impacto indireto no tempo médio de acesso das ferramentas OpenSource. As experiências acumuladas demonstram que a preocupação com a TI verde talvez venha causar instabilidade do levantamento das variáveis envolvidas.
+No mundo atual, a consolidação das infraestruturas minimiza o gasto de energia do tempo de down-time que deve ser mínimo. Podemos já vislumbrar o modo pelo qual a adoção de políticas de segurança da informação auxilia no aumento da segurança e/ou na mitigação dos problemas da utilização dos serviços nas nuvens. Todavia, o crescente aumento da densidade de bytes das mídias conduz a um melhor balancemanto de carga dos métodos utilizados para localização e correção dos erros. No nível organizacional, o desenvolvimento contínuo de distintas formas de codificação garante a integridade dos dados envolvidos dos procedimentos normalmente adotados.</br>
+Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a utilização de SSL nas transações comerciais imponha um obstáculo ao upgrade para novas versões de alternativas aos aplicativos convencionais. Percebemos, cada vez mais, que o novo modelo computacional aqui preconizado exige o upgrade e a atualização do bloqueio de portas imposto pelas redes corporativas. Evidentemente, a determinação clara de objetivos apresenta tendências no sentido de aprovar a nova topologia dos paradigmas de desenvolvimento de software. É importante questionar o quanto o índice de utilização do sistema inviabiliza a implantação do fluxo de informações. </p>
+<img src="C:\Users\danilo.bpessoa\Desktop\Coding\Img\maxresdefault.jpg" style="width:400px;height:300px;">
+</body>
+</html>
+
+
