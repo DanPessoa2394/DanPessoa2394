@@ -1,3 +1,9 @@
+ var btn = document.querySelectorAll(".key li");
+    input = document.querySelectorAll(".input-valor"),
+    operador = document.querySelectorAll(".operador");
+
+
+
 for(var i=0; i<btn.lenght; i++){
     document.onkeypress = function(event){
     var key = event.charcode;
